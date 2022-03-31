@@ -5,7 +5,6 @@ const apicache = require("apicache");
 const router = express.Router();
 
 const BASE_URL = "https://search.roblox.com/catalog/json?CatalogContext=2&";
-const PAGE_LIMIT = 10;
 
 // Initialize cache
 let cache = apicache.middleware;
