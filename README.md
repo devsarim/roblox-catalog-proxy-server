@@ -7,6 +7,7 @@ What you *should* do is setup and host your own proxy server, this can be a fair
 This repository is here to help you with the process of creating your own proxy server. 
 
 You can simply download this repository and host the code yourself. It has a couple of endpoints for using the [Catalog API](https://developer.roblox.com/en-us/articles/Catalog-API) but you can obviously add as many endpoints as you want.
+
 There are multiple free hosting options, Heroku is one I personally use. To get started with deploying the repository to Heroku once you have downloaded it, [follow this link](https://devcenter.heroku.com/articles/getting-started-with-nodejs).
 
 Do keep in mind that the free plans can only handle so much load so if, in the future, your player base grows larger, you will have to pay to upgrade your app.
